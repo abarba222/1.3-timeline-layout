@@ -1,19 +1,25 @@
-header{
-  height: 295px;
-  background-image:url()
+h1{
+  font-size:16px;
+}
+
+p1{
+  font-size:36px;
+  font-weight:bold;
+}
+
+h2{
+  font-size:16px;
+}
+
+p2{
+  font-size:36px;
+  font-weight: bold;
 }
 
 body{
   margin:0;
 }
 
-
-aside{
-  float:left;
-  width:250px;
-  position:relative;
-  top:-60%;
-}
 
 .logo{
   color: white;
